@@ -1,0 +1,15 @@
+.schedule {
+    display: flex;
+
+    height: 100vh;
+  }
+  
+  .sidbar {
+    flex:5px;
+    background-color: #f5f5f5;
+  }
+  
+  .cio {
+    flex: 0.2;
+    overflow: auto;
+  }
